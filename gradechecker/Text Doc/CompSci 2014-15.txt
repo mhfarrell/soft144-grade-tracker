@@ -1,0 +1,34 @@
+Name: Joe Blogs
+Student Reference Number: 10987654 
+Date of Birth: 16/01/1990  
+BSc (Hons) Computer Science Stage 1 - 2014/2015
+Number of modules: 4
+
+ISAD131   Database Development   20
+Coursework
+Group - Database Implementation   0   0.50
+Individual Part 1 - Initial Top-Down Data Model   40.00   0.20
+Individual Part 2 - Requirements Model   31.00   0.30
+Examination
+Exam   0
+
+ISAD140   Software Development   20
+Coursework
+Exercises 2   0   0.55
+Exercises 1   50.56   0.45
+Examination
+Exam   0
+
+SOFT140   Principles of Programming Structures & Algorithms   10
+Coursework
+Assignment 2   0   0.50
+Assignment 1   51.10   0.50
+Examination
+Exam   0
+
+SOFT144   Software Engineering for Games Development   20
+Coursework
+Assessed Exercise 1   74.55   0.15
+Assessed Exercise 2   58.73   0.15
+Production Based Assignment   0   0.70
+

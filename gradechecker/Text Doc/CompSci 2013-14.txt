@@ -1,0 +1,55 @@
+Name: Joe Blogs
+Student Reference Number: 10987654 
+Date of Birth: 16/01/1990  
+BSc (Hons) Computer Science Stage 1 - 2013/2014 
+Number of modules: 7
+
+AINT101   Computer Science Workshop   20
+Coursework
+Portfolio   40   1.0
+
+CNET111   Computer Systems   20
+Coursework
+Report Confirmed   55.00   0.50
+Assessed Practical   90.00   0.20
+Exercises in Linux   81.48   0.14
+Programming Exercise   81.82   0.16
+Examination
+Exam   48.33
+
+CNET115   Introduction to Computer and Information Security   10
+Coursework
+In-Class Test   50.00   0.40
+Report (Group Based)   65.00   0.60
+
+ISAD131   Database Development   20
+Coursework
+Individual Part 1 - Initial Top-Down Data Model   54.00   0.20
+Individual Part 2 - Requirements Model   16.00   0.30
+Group - Database Implementation   83.00   0.50
+Examination
+Exam   24.00
+
+ISAD140   Software Development   20
+Coursework
+Assignment 2   32.00   0.55
+Exercises 1   50.03   0.30
+Maths Class Test   52.00   0.15
+Examination
+Exam   23.00
+
+SOFT140   Principles of Programming Structures & Algorithms   10
+Coursework
+Assignment 2   37.53   0.30
+Assignment 1   42.22   0.40
+Assignment 3   14.86   0.30
+Examination
+Exam   33.13
+
+SOFT144   Software Engineering for Games Development   20
+Coursework
+In-Class Test 1   40.00   0.10
+In-Class Test 2   27.50   0.10
+In-Class Test 3   70.00   0.10
+In-Class Test 4   60.00   0.20
+Production Based Assignment   20.00   0.50
